@@ -27,4 +27,4 @@
   - [Planetary Address System](twin:addressing_system)
   <!-- [peer2peer fairswap](p2p_swap)-->
 - [Roadmap](roadmap)
-- [Technical Concepts](concepts)
+- [Technical Concepts](sdk:concepts)
