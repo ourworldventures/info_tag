@@ -14,7 +14,7 @@
   - [Autopay](threefold:autopay)
   - [TFConnect](threefold:tfconnect)
   - [Wallet](wallet)
-  - [HyperDrive](hyperdrive)
+  - [HyperDrive](twin:hyperdrive)
   - [Farm Management](twin:threefold_farmer_mgmt)
 - [Benefits](twin:benefits)
 - [Price](twin:price)
