@@ -9,7 +9,7 @@
   - [Office](twin:office)
   - [Publisher](threefold:publisher)
   - [Notifications](twin:notifications)
-  - [ThreefoldFS](threefold:threefold_fs)
+  - [ThreefoldFS](threefold:quantum_safe_filesystem)
   - [PlanetaryNetwork](threefold:threefold_network)
   - [Autopay](threefold:autopay)
   - [TFConnect](threefold:tfconnect)
