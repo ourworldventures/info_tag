@@ -1,29 +1,32 @@
-![](img/digital_twin_intro.png)
 
-# Your Digital Twin
+# Threefold | Take Action Global 
 
-Welcome to the Digital Twin knowledge base, a set of resources to help you learn more about Digital Twin.
-<br>
-Here you will find all relevant information around the project.
+![](img/tagprojects.png)
 
-## What is Digital Twin?
+Welcome to **ThreeFold|Take Action Global** Knowledge-Based. Here, you will find all the relevant information around the synergy between ThreeFold and Take Action Global 
 
-Digital Twin is a revolutionary digital avatar that will hold all of your digital life.
+To start: 
 
-Today, our digital lives are scattered across a range of applications and services. Don't you think it's weird to be exposed to countless apps on our devices every day – apps that work in silos, complicating our lives, rather than in conjunction? With Digital Twin, everything changes. Free yourself from the current application and advertising centric system to a human-centric model with you at the center. One login and identity to access to access all your digital life - social media, communication, office, publishing tools, education, wallets and more.
+Read **[this simplified ThreeFold introduction](tf_introduction)** or watch the short video below:
 
-Digital Twin represents definitive leap to true digital privacy, where only you can access your data, and no one else – not even ThreeFold.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5DtVU66Z74s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Why use Digital Twin?
 
-Digital Twin comes with many benefits. It represents a paradigm shift from current model where you are the product, to a system built around you as the center.
+Please go through **[Take Action Global project description](tag_introduction)** or watch the short video below: 
 
-- Human-friendly: single profile and identity to access all your digital life.
-- Privacy: Own 100% of your data, and decide who can access it.
-- Ultra-secure: Unique network infrastructure removes the need for VPNs, antiviruses and firewalls.
-- Peer-to-peer: A pyramid-free end-to-end system that gives the power back to people.
-- Fair Information: Find purposeful and verifiable information. No fake news or profiles.
-- Complementary banking: Access a full range of digital economies and currencies.
-- Personal Browser: Two clicks away from all information in the world, in a fully secure manner.
-- Personal Edge Cloud: Store all your files privately on the edge.
-- Developer Friendly: Comes with an integrated SDK to grow in a decentralized way.
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=B9uMsPv0qqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## More Online Resources 
+
+- **[Threefold main website](https://threefold.io)**: Helps you navigate throughout the ThreeFold universe based on your interest(s) in the project.
+    - **[Be The Internet](https://farming.threefold.io)**: Join the Internet economy by hosting a server at your home or office.
+    - **[Alliance for a Conscious Internet](https://consciousinternet.org)**: A collective ecosystem of planet and human centric projects.
+    - **[ThreeFold Marketplace](https://marketplace.threefold.io)**: Empower your community with peer-to-peer applications and tools.
+    - **[Your P2P Cloud](https://cloud.threefold.io)**: Build secure software, applications, and open Internet services.
+    - **[The Antidote to the Cyber Pandemic](https://threefold.tech)**: Dig deeper into the technology behind the TF Grid.
+    - **[Digital Twin](https://mydigitaltwin.io)**: Own your data. The next-level end user experience that will change everything!
+- **[Take Action Global main website](https://www.takeactionglobal.org/)**: Their mission is to empower students, teachers and partner to reverse climate.
+  - **[Climate Action Project](https://www.climate-action.info/)**: A project aiming at changing students' behavior and societies' mindset concerning climate change and environmental threats through educacation.
+
+- **[ThreeFold News Telegram Channel](https://t.me/threefoldnews)**: Stay updated on what is our most recent announcements and updates.
+- **[The ThreeFold Forum](https://forum.threefold.io)**: The perfect place for you to share, connect, & ask questions.
