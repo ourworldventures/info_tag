@@ -1,6 +1,6 @@
 # Take Action Global
 
-![](img/tagprojects.png)
+![](img/tag.png)
 
 Take Action Global (TAG) has the aim to provide quality education experiences to people in some of the poorest places on earth. With already 2.7 million students and +21,000 teachers in 40 oountries, their mission is to pioneer solutions in climate education and students actions, empowering students, teachers and partners, to reverse climate change and realize environmental justice for all. By mobilizing students, teachers, educational institution and organizations, TAG finds ways to connect from all around the world to provide free, quality, meaningful education. 
 
