@@ -11,6 +11,7 @@ Read **[this simplified ThreeFold introduction](tf_introduction)** or watch the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5DtVU66Z74s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
 
 Please go through **[Take Action Global project description](tag_introduction)** or watch the short video below: 
 
