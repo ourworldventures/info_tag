@@ -7,10 +7,10 @@ To open-up more possibilities for learning and positive solution for our world, 
 Each student and teacher will be gifted with Digital Twin for Life that will grant them a unique digital identity forever while being in a fully private and secured digital world - They will have full control over their data, no one else. 
 
 The Educational Platform will incorporate the different experiences built on top of Digital Twin to facilitate collaboration: 
-- Chat: Students & teachers will be able to communicate with their friends and colleagues on a heart-to-heart way 
-- Meet: The first peer-to-peer video conferencing tool
-- Office: The ability to create and edit documents 
-- File Storage: A place to store your files & documents in a fully secured way. 
+- **Chat**: Students & teachers will be able to communicate with their friends and colleagues on a heart-to-heart way 
+- **Meet**: The first peer-to-peer video conferencing tool
+- **Office**: The ability to create and edit documents 
+- **File Storage**: A place to store your files & documents in a fully secured way. 
 
 > The Education Platform is under production and will be available soon. 
 
