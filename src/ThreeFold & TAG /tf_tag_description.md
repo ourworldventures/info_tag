@@ -16,20 +16,20 @@ Actions such planting different types of trees according to the environment biod
 
 This project has the potential to offset 100% of our energy usage by end 2021. 
 
+
 **Learn more:** 
 
 About the calculation regarding how much ThreeFold Token (TFT) is needed to compensate for our energy usage [here](https://info.threefold.io/#/threefold__cloud_units_carbon_double_win).
 
 [Carbon Footprint Tracking App](carbon_footprint_tracking_app)
 
+Learn more about the Planet Positve Grid, [here](planet_positive_grid)
 
 ## Education 
 
 To open up more possibilities for learning and positive solution for our world, TAG envison to create a peer-to-peer educational platform which will be built on top of the Threefold Grid. This platform will be a way to connect students to students, students to teachers, and teachers to teachers. 
 
 Additionally, each student and teacher will be granted a Digital Twin for Life (their unique digital identity providing them with a fully private and secure digital life) along with its seamless collaborative experiences. From that, we will be able to set up global projects to tackle climate change and other issues allowing sutdents to connect, brainstorm, create, share, solve problems and take action. 
-
-<iframe width="560" height="315" src="https://vimeo.com/414512607" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Learn more about the peer-to-peer educational platform, [here](educational_platform)
 
