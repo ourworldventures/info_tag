@@ -18,13 +18,15 @@ The TFTs retained, from Contribution Phase, will be converted into TFT_TAG, whic
 
 3. First Part: TFT_TAG converted into Fiat Currency for Students
 
-In order to provide the amount of money required to support students or children from all around the world in taking action against climate change, ThreeFold Foundation will buy the TFT_TAG for Fiat Currency. The purpose here, is to reward directly students and children and support their education. 
+In order to provide the amount of money required to support students or children from all around the world in taking action against climate change (for instance, planting trees), ThreeFold Foundation will buy the TFT_TAG for Fiat Currency. The purpose here, is to reward directly students and children and support their education. 
 
 Firstly, a first portion of the total amount will be sent to the students to buy everything which is needed for the action to be completed. Then, after receiving the audit approval, the rest of the total amount will be sent to the students as a reward. 
 
 4. Second Part: TFT_TAG For Take Action Global and Community auditors 
 
 To be fully trustworthy and transparent process, community members of the current region will be voluntarily assigned as community auditors - They will be the ones who will check the truthfulness of the actions and provide a report for all the stakeholders of ThreeFold and Take Action Global. 
+
+For instance, community auditors will make sure that the tree has been planted and if it is the right plant according to the biodiversity of the environment & its carbon absorption rate. 
 
 They will be rewarded by TFT_TAG. 
 
