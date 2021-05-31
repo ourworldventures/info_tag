@@ -1,6 +1,6 @@
 - [Why](why_introduction)
   - [Our planet is dying](planet_dying)
-  - [Current centralized infrastructure is unsustainable](centralized_unsustainable)
+  - [Current infrastructure is unsustainable](centralized_unsustainable)
   - [Carbon Credit Problem](carbon_credit_problem)
 - [Take Action Global](tag_introduction)
 - [Threefold](tf_introduction)
