@@ -2,7 +2,7 @@
 
 Following ThreeFold new Farming model along with the introduction to Planet Positive Farmer and Planet Friendly Farmer, we will now explore how the carbon credits are created and how will they be used to support directly climate action projects.
 
-> Image that explain the model (mindmup)
+![](img/tag_threefold_carbon.png)
 
 **Process**: 
 
@@ -24,7 +24,7 @@ Firstly, a first portion of the total amount will be sent to the students to buy
 
 4. Second Part: TFT_TAG For Take Action Global and Community auditors 
 
-To be fully trustworthy and transparent process, community members of the current region will be voluntarily assigned as community auditors - They will be the ones who will check the truthfulness of the actions and provide a report for all the stakeholders of ThreeFold and Take Action Global. 
+To be a fully trustworthy and transparent process, community members of the current region will be voluntarily assigned as community auditors - They will be the ones who will check the truthfulness of the actions and provide a report for all the stakeholders of ThreeFold and Take Action Global. 
 
 For instance, community auditors will make sure that the tree has been planted and if it is the right plant according to the biodiversity of the environment & its carbon absorption rate. 
 
