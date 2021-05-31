@@ -2,7 +2,7 @@
 
 ## Planet Positive Grid 
 
-![](img/threefold__carbon_neutral1.png)
+![](img/threefold_carbon_neutral1.png)
 
 Despite ThreeFold infrastructure designed in a way to be super energy efficient compared to the current market, Threefold join forces with Take Action Global to let students farm carbon credits. 
 
@@ -18,7 +18,7 @@ This project has the potential to offset 100% of our energy usage by end 2021.
 
 **Learn more:** 
 
-About the calculation regarding how much ThreeFold Token (TFT) is needed to compensate for our energy usage [here](https://info.threefold.io/#/threefold__cloud_units_carbon_negative).
+About the calculation regarding how much ThreeFold Token (TFT) is needed to compensate for our energy usage [here](https://info.threefold.io/#/threefold__cloud_units_carbon_double_win).
 
 [Carbon Footprint Tracking App](carbon_footprint_tracking_app)
 
@@ -32,5 +32,4 @@ Additionally, each student and teacher will be granted a Digital Twin for Life 
 <iframe width="560" height="315" src="https://vimeo.com/414512607" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Learn more about the peer-to-peer educational platform, [here](educational_platform)
-
 
