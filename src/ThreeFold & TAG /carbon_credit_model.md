@@ -8,9 +8,11 @@ Following ThreeFold new Farming model along with the introduction to Planet Posi
 
 1. Contribution Phase: Users and Farmers 
 
-Users of the ThreeFold Grid will pay in ThreeFold Token (TFT) to run and store their data. In the selling price, x% of the proceeds will be allocated, by ThreeFold Foundation to offset the users' energy footprint. 
+Users of the ThreeFold Grid will pay in ThreeFold Token (TFT) to run and store their data. In the selling price, part of the proceeds will be allocated, by ThreeFold Foundation to offset the users' energy footprint. 
 
 Farmers who will provide capacity and storage on the ThreeFold Grid, will be rewarded in TFT, by ThreeFold Foundation, under the process of cultivation. Part of the reward will be transparently reallocated, by ThreeFold Foundation, to offset the farmers' energy footprint. 
+
+Please note that the amount that will be reallocated to offset the energy footprint depends on the volume of data processed. 
 
 2. Conversion Phase 
 
@@ -29,5 +31,6 @@ To be a fully trustworthy and transparent process, community members of the curr
 For instance, community auditors will make sure that the tree has been planted and if it is the right plant according to the biodiversity of the environment & its carbon absorption rate. 
 
 They will be rewarded by TFT_TAG. 
+
 
 
