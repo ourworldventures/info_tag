@@ -33,7 +33,7 @@ Bitcoin made a great step towards the decentralization of the network where curr
 
 The annual power consumption of the Bitcoin network was estimated to be 129 Terawatt-hours (TWh)**. 
 
-![](img/Bitcoin.png)
+![](img/bitcoin.png)
 
 ***Source: https://www.visualcapitalist.com/visualizing-the-power-consumption-of-bitcoin-mining/***
 
