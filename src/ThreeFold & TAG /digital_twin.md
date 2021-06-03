@@ -20,6 +20,6 @@ Below is a short video and message from Koen Timmers, Co-Founder of Take Action 
 
 <iframe width="560" height="315" src="https://vimeo.com/414512607" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Learn more about [Digital Twin](www.info.mydigitaltwin.io).
+Learn more about [Digital Twin](https://info.mydigitaltwin.io). 
 
  
