@@ -5,7 +5,7 @@
 - [Take Action Global](tag_introduction)
 - [Threefold](tf_introduction)
 - [The solution](the_solution_intro)
-  - [Planet Positive Farming](planet_positive_farming)
+<!--   - [Planet Positive Farming](planet_positive_farming) please add when there's info-->
   - [Carbon Credit Model](carbon_credit_model)
   - [Climate Action Program](climate_action_program)
   - [Digital Twin](digital_twin)
