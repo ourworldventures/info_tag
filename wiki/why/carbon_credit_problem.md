@@ -1,6 +1,6 @@
 # Carbon Credit Problem  
 
-![](img/earth_dying.jpeg)
+![](img/earth_dying.jpg)
 
 We do not have enough time. In order to mitigate the impacts of global warming many experts beleive that our greenhouse gas emissions need to be reduced 80% below 1990 levels by 2050. 
 
@@ -15,7 +15,6 @@ Now, companies are specializing themselves in making carbon-reducing technologie
 Moreover, there are often potential secondary ecological and human impacts in the creation of carbon credits. One of the most serious related-case example involves a 220 square mile plantation of Eucalyptus and pine in Andean Ecuador. This carbon credit-generating plantation has resulted in the destruction of a native forest, the introduction of damaging invasive species, a reduction in biological diversity, the release of massive amounts of soil carbon, and the displacement of indigenous peoples. 
 
 > **ThreeFold & Take Action Global do not want that!**
-
 
 
 

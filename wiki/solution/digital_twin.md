@@ -6,7 +6,7 @@ Users will be rewarded in relation to their actions and may also support financi
 
 # A Peer-to-Peer Educational Platform 
 
-![](img/education_for_all.jpeg)
+![](img/education_for_all_.jpg)
 
 To open-up more possibilities for learning and positive solution for our world, Take Action Global envison to create a fully peer-to-peer educational platform which will be built on top of Digital Twin. This will give the possibility to connect millions of students and teachers together on a peer-to-peer way. It enables the setting up of global projects to tackle climate change and other issues and allowing students to connect, brainstorm, create, share, solve problems and take actions - A Climate Education for all!
 
