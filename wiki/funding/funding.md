@@ -6,7 +6,7 @@ This section focuses on the funding required for the project to thrive.
 
 Take Action Global have built a community of thousands of teachers globally which allows them to connect to children and teachers in refugee camps. This allows them to train teachers in refugee camps (67% of which haven’t completed secondary education) and facilitate interactions between refugee students and students globally, changing their mindset and fighting polarization. Today, we face limitations with technology including affordability of and access to the internet.
 
-With ThreeFold as the infrastructure, and utilizing elements of Digital Twin technology, we are developing Climate Action Project, a [Peer-to-Peer Educational platform](digital_twin) that affordably and effectively bridges refugees with other students and educators around the world.
+With ThreeFold as the infrastructure, and utilizing elements of Digital Twin technology, we are developing Climate Action Project, a [Peer-to-Peer Educational platform](tag_digital_twin) that affordably and effectively bridges refugees with other students and educators around the world.
 
 ## Team and Stories 
 

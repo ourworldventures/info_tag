@@ -8,6 +8,6 @@
   - [Planet Positive Farming](@planet_positive_farming)
   - [Carbon Credit Model](@carbon_credit_model)
   - [Climate Action Program](@climate_action_program)
-  - [Digital Twin](@digital_twin)
+  - [Digital Twin](@tag_digital_twin)
 - [Funding](@funding)
 - [Our Vision](@vision)
