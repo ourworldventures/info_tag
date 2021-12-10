@@ -29,6 +29,6 @@
   - [FreeFlow tools](@freeflow:freeflow_tools)
     - [Circles tools](@freeflow:circles_tools)
     - [Github content rules](@freeflow:github_content_rules)
-    - [Markdown](@threefold:markdown)
+    - [Markdown](@publishtools:markdown)
     - [Markdown advanced](@freeflow:markdown_advanced)
     - [Markdown examples](@freeflow:emphasis)

@@ -10,7 +10,7 @@ Following ThreeFold new Farming model along with the introduction to Planet Posi
 
 Users of the ThreeFold Grid will pay in ThreeFold Token (TFT) to run and store their data. In the selling price, part of the proceeds will be allocated, by ThreeFold Foundation to offset the users' energy footprint. 
 
-Farmers who will provide compute and storage on the ThreeFold Grid, will be rewarded in TFT, by ThreeFold Foundation, under the process of cultivation. Part of the reward will be transparently reallocated, by ThreeFold Foundation, to offset the farmers' energy footprint. 
+Farmers who will provide compute and storage on the ThreeFold Grid, will be rewarded in TFT, by ThreeFold Foundation, under the process of utilization. Part of the reward will be transparently reallocated, by ThreeFold Foundation, to offset the farmers' energy footprint. 
 
 Please note that the amount that will be reallocated to offset the energy footprint depends on the volume of data processed. 
 
