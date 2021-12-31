@@ -12,7 +12,7 @@ With ThreeFold as the infrastructure, and utilizing elements of Digital Twin tec
 
 Take Action Global and Climate Action Project have been created and developed by mindful people with the goal of empowering millions of students and people globally to find solutions and fight against climate change. 
 
-See more about the team [here](accelerator:tag_team)
+See more about the team [here](threefold_internal:tag_team)
 
 ## Funding needed - Roadmap
 
@@ -25,4 +25,3 @@ Specific priorities will have to be defined but the more funding has been found 
 
 Learn more: 
 About the [ThreeFold | Take Action Global Solution](the_solution_intro).
-
